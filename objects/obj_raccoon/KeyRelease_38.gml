@@ -1,0 +1,1 @@
+sprite_index = spr_raccoon_idle_up_fixed_strip02
