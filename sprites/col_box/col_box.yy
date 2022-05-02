@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"col_box","path":"sprites/col_box/col_box.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "col_box",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bldg_big_red","path":"sprites/spr_bldg_big_red/spr_bldg_big_red.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_bldg_big_red",
     "tags": [],
     "resourceType": "GMSequence",

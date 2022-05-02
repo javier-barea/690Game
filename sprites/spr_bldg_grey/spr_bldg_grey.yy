@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bldg_grey","path":"sprites/spr_bldg_grey/spr_bldg_grey.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_bldg_grey",
     "tags": [],
     "resourceType": "GMSequence",

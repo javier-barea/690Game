@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_rat_walk_up_strip04","path":"sprites/spr_rat_walk_up_strip04/spr_rat_walk_up_strip04.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_rat_walk_up_strip04",
     "tags": [],
     "resourceType": "GMSequence",

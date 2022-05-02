@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_Pope_TrashUI_002","path":"sprites/spr_Pope_TrashUI_002/spr_Pope_TrashUI_002.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_Pope_TrashUI_002",
     "tags": [],
     "resourceType": "GMSequence",

@@ -154,10 +154,10 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"r-squared.ttf","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2022.2.1.618",
+    "IDEVersion": "2022.1.1.610",
   },
-  "resourceVersion": "1.5",
-  "name": "690Project",
+  "resourceVersion": "1.4",
+  "name": "lucas",
   "tags": [],
   "resourceType": "GMProject",
 }

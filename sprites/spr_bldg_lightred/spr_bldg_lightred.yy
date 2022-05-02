@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bldg_lightred","path":"sprites/spr_bldg_lightred/spr_bldg_lightred.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_bldg_lightred",
     "tags": [],
     "resourceType": "GMSequence",
