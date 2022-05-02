@@ -41,7 +41,7 @@
     "spriteId": {"name":"spr_rat_walk_right_strip04","path":"sprites/spr_rat_walk_right_strip04/spr_rat_walk_right_strip04.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 3.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

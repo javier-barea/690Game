@@ -1,2 +1,2 @@
-speed = 0;
+peed = 0;
 direction = 0;

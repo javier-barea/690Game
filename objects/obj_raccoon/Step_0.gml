@@ -4,3 +4,9 @@ layer_vspeed(lay_id, obj_raccoon.vspeed);
 
 x=clamp(x, 0, room_width);
 y=clamp(y, 0, room_height);
+
+// if raccoon touches trashcan
+//if (place_meeting(x, y, obj_trashcan)){
+     //visible = 0//1 - keyboard_check(ord("C"));
+//}
+
