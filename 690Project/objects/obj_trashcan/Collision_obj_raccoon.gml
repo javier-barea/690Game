@@ -1,4 +1,7 @@
+if global.foodCount < 9 {
 global.foodCount += 1
+
+}
 game_save("level.dat")
 
 

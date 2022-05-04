@@ -22,16 +22,14 @@ if accept {audio_play_sound(Sound2, 1, false); }
 if image_index == 0 and accept {
 	//obj_inventory.image_index = 1;
 		game_load("level.dat")
-			currentInstance = instance_nearest(obj_raccoon.x, obj_raccoon.y, obj_trashcan)
-	instance_destroy(currentInstance)
+
 	//position de la rata sea la del trashcan
 }
 
 if image_index == 1 and accept {
 //	obj_inventory.image_index = 2;
 	game_load("level.dat")
-		currentInstance = instance_nearest(obj_raccoon.x, obj_raccoon.y, obj_trashcan)
-	instance_destroy(currentInstance)
+
 }
 
 if image_index == 2 and accept {
