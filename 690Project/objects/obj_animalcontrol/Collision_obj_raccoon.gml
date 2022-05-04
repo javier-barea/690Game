@@ -1,0 +1,1 @@
+draw_text(x + 0, y + 0, string("Caption: ") + string(50));
