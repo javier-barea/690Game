@@ -1,3 +1,5 @@
+game_save("level.dat")
+
 sprite_index = spr_trashcan_raccoon_in
 
 trashcanMenu = true

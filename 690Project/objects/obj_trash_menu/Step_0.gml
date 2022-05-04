@@ -14,18 +14,18 @@ if right {image_index++;}
 
 if image_index == 0 and accept {
 	//obj_inventory.image_index = 1;
-	room_goto(Room1);
+		game_load("level.dat")
 	//position de la rata sea la del trashcan
 }
 
 if image_index == 1 and accept {
-	obj_inventory.image_index = 2;
-	room_goto(Room1);
+//	obj_inventory.image_index = 2;
+	game_load("level.dat")
 }
 
 if image_index == 2 and accept {
-	obj_inventory.image_index = 3;
-	room_goto(Room1);
+//	obj_inventory.image_index = 3;
+	game_load("level.dat")
 }
 
 //if back {room_goto(Room1)}

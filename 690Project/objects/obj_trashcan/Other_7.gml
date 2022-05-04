@@ -4,8 +4,11 @@ if (sprite_index == spr_trashcan_raccoon_out) {
 }
 
 if (sprite_index == spr_trashcan_raccoon_in) {
-	room_goto(rm_trash_menu);
+	room_goto(rm_trash_menu);		
 	sprite_index = spr_trashcan_raccoon_out;
+	
+
+
 }
 
 

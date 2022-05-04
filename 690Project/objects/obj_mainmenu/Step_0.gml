@@ -14,7 +14,7 @@ if down {image_index++;}
 
 if image_index == 0 and accept {room_goto(Room1)}
 
-if image_index == 1 and accept {room_goto(rm_controls)}
+if image_index == 1 and accept {room_goto(Room1)}
 
 if image_index == 2 and accept {room_goto(rm_about)}
 
