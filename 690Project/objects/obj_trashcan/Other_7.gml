@@ -1,7 +1,9 @@
 if (sprite_index == spr_trashcan_raccoon_out) {
 	sprite_index = spr_trashcan_idle;
 	 instance_activate_object(obj_raccoon)
-	 	 instance_activate_object(obj_animalcontrol)
+	 instance_activate_object(obj_animalcontrol)
+	
+
 }
 
 if (sprite_index == spr_trashcan_raccoon_in) {
@@ -11,6 +13,7 @@ if (sprite_index == spr_trashcan_raccoon_in) {
 
 
 }
+
 
 
 /// @description Insert description here

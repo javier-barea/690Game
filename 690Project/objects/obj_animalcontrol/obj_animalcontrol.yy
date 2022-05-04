@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_animalcontrol_walk_up_strip04",
-    "path": "sprites/spr_animalcontrol_walk_up_strip04/spr_animalcontrol_walk_up_strip04.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
