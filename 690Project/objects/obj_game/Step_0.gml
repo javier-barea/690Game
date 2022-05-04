@@ -7,6 +7,7 @@ var l21D86760_0;
 //enter = keyboard_press_checked(vk_enter);	
 	if (l21D86760_0)
 	{
+		game_save("level1.dat")
 		paused = !paused;
 	
 		if(paused == false)
@@ -21,7 +22,8 @@ var l21D86760_0;
 
 	if(paused == true)
 	{
-		instance_deactivate_all(true)
+
+		//instance_deactivate_all(true)
 		room_goto(rm_menu)
 
 	}

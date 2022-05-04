@@ -8,10 +8,17 @@ right = keyboard_check_pressed(vk_right);
 accept = keyboard_check_pressed(vk_enter);
 //back = keyboard_check_pressed(vk_escape);
 
-if left {image_index--;}
+if left {image_index--;
+	
+	audio_play_sound(1, 1, false);
+	}
 
-if right {image_index++;}
+if right {image_index++;
+	audio_play_sound(1, 1, false);
+	}
 
+
+if accept {audio_play_sound(2, 1, false); }
 if image_index == 0 and accept {
 	//obj_inventory.image_index = 1;
 		game_load("level.dat")

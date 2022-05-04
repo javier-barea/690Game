@@ -8,9 +8,20 @@ down = keyboard_check_pressed(vk_down);
 accept = keyboard_check_pressed(vk_enter);
 //back = keyboard_check_pressed(vk_escape);
 
-if up {image_index--;}
+if up {image_index--;
+	
+	audio_play_sound(1, 1, false);
 
-if down {image_index++;}
+}
+
+
+
+if down {image_index++; 	audio_play_sound(1, 1, false);}
+
+
+if accept{	audio_play_sound(2, 1, false);}
+
+
 
 if image_index == 0 and accept {room_goto(Room1)}
 

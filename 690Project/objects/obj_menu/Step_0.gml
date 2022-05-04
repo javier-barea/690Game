@@ -4,8 +4,8 @@
 var accept;
 
 accept = keyboard_check_pressed(vk_enter);
-
-if image_index == 0 and accept {room_goto(Room1)}
+if accept { audio_play_sound(2, 1, false);}
+if image_index == 0 and accept {game_load("level1.dat")}
 
 if image_index == 1 and accept {room_goto(rm_inventory)}
 

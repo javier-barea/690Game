@@ -22,8 +22,8 @@
     {"speed":100.0,"x":736.0,"y":832.0,},
   ],
   "parent": {
-    "name": "690Project",
-    "path": "690Project.yyp",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
   "resourceVersion": "1.0",
   "name": "Path4",
