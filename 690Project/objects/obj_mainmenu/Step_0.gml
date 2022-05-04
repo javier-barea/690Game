@@ -23,7 +23,7 @@ if accept{	audio_play_sound(2, 1, false);}
 
 
 
-if image_index == 0 and accept {room_goto(Room1)}
+if image_index == 0 and accept {room_goto(rm_beginning_cutscene)}
 
 if image_index == 1 and accept {room_goto(Room1)}
 

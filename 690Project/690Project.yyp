@@ -37,6 +37,7 @@
     {"id":{"name":"spr_trashcan_idle","path":"sprites/spr_trashcan_idle/spr_trashcan_idle.yy",},"order":0,},
     {"id":{"name":"obj_bldg_tall3","path":"objects/obj_bldg_tall3/obj_bldg_tall3.yy",},"order":12,},
     {"id":{"name":"trascanemtramce","path":"sounds/trascanemtramce/trascanemtramce.yy",},"order":0,},
+    {"id":{"name":"rm_beginning_cutscene","path":"rooms/rm_beginning_cutscene/rm_beginning_cutscene.yy",},"order":13,},
     {"id":{"name":"spr_Pope_Food_Indiv_014","path":"sprites/spr_Pope_Food_Indiv_014/spr_Pope_Food_Indiv_014.yy",},"order":13,},
     {"id":{"name":"Object30","path":"objects/Object30/Object30.yy",},"order":20,},
     {"id":{"name":"spr_rat_walk_down_strip04","path":"sprites/spr_rat_walk_down_strip04/spr_rat_walk_down_strip04.yy",},"order":0,},
@@ -88,6 +89,7 @@
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":9,},
     {"id":{"name":"spr_bldg_tall3","path":"sprites/spr_bldg_tall3/spr_bldg_tall3.yy",},"order":10,},
     {"id":{"name":"spr_raccoon_idle_right_strip02","path":"sprites/spr_raccoon_idle_right_strip02/spr_raccoon_idle_right_strip02.yy",},"order":2,},
+    {"id":{"name":"obj_video","path":"objects/obj_video/obj_video.yy",},"order":21,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":10,},
     {"id":{"name":"spr_Pope_Food_Indiv_004","path":"sprites/spr_Pope_Food_Indiv_004/spr_Pope_Food_Indiv_004.yy",},"order":3,},
     {"id":{"name":"spr_bldg_red","path":"sprites/spr_bldg_red/spr_bldg_red.yy",},"order":2,},
@@ -134,7 +136,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "isDnDProject": false,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
@@ -151,6 +153,7 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},},
     {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
+    {"roomId":{"name":"rm_beginning_cutscene","path":"rooms/rm_beginning_cutscene/rm_beginning_cutscene.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -181,13 +184,14 @@
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"r-squared.ttf","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"beginning_cutscene.mp4","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2022.2.1.618",
+    "IDEVersion": "2022.3.0.625",
   },
   "resourceVersion": "1.5",
   "name": "690Project",
