@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_titleToMainMenu",
+  "name": "obj_titlescreen",
   "tags": [],
   "resourceType": "GMObject",
 }

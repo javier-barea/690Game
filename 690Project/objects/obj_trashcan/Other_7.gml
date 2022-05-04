@@ -1,5 +1,6 @@
 if (sprite_index == spr_trashcan_raccoon_out) {
 	sprite_index = spr_trashcan_idle;
+	 instance_activate_object(obj_raccoon)
 }
 
 if (sprite_index == spr_trashcan_raccoon_in) {

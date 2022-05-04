@@ -117,8 +117,8 @@
     {"id":{"name":"obj_bldg_blue","path":"objects/obj_bldg_blue/obj_bldg_blue.yy",},"order":4,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":14,},
     {"id":{"name":"obj_building_parent","path":"objects/obj_building_parent/obj_building_parent.yy",},"order":14,},
-    {"id":{"name":"o_titleToMainMenu","path":"objects/o_titleToMainMenu/o_titleToMainMenu.yy",},"order":13,},
-    {"id":{"name":"o_menu","path":"objects/o_menu/o_menu.yy",},"order":12,},
+    {"id":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},"order":13,},
+    {"id":{"name":"obj_mainmenu","path":"objects/obj_mainmenu/obj_mainmenu.yy",},"order":12,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

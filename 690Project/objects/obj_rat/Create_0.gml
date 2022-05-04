@@ -1,10 +1,1 @@
-enum DIR
-{
-  right = 0,
-  up = 90,
-  left = 180,
-  down = 270
-}
-
-
-
+path_start(choose(Path2, Path3, Path4), 2, path_action_reverse,true)

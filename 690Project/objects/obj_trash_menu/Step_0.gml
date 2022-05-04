@@ -13,16 +13,18 @@ if left {image_index--;}
 if right {image_index++;}
 
 if image_index == 0 and accept {
-	//add food to inventory
+	//obj_inventory.image_index = 1;
 	room_goto(Room1);
+	//position de la rata sea la del trashcan
 }
 
 if image_index == 1 and accept {
-	//add food to inventory
+	obj_inventory.image_index = 2;
 	room_goto(Room1);
 }
 
 if image_index == 2 and accept {
+	obj_inventory.image_index = 3;
 	room_goto(Room1);
 }
 
