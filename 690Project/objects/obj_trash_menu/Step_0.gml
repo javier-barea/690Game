@@ -10,15 +10,15 @@ accept = keyboard_check_pressed(vk_enter);
 
 if left {image_index--;
 	
-	audio_play_sound(1, 1, false);
+	audio_play_sound(Sound3, 1, false);
 	}
 
 if right {image_index++;
-	audio_play_sound(1, 1, false);
+	audio_play_sound(Sound3, 1, false);
 	}
 
 
-if accept {audio_play_sound(2, 1, false); }
+if accept {audio_play_sound(Sound2, 1, false); }
 if image_index == 0 and accept {
 	//obj_inventory.image_index = 1;
 		game_load("level.dat")

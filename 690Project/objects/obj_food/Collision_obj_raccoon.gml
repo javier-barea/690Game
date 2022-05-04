@@ -4,3 +4,4 @@
 currentInstance = instance_nearest(obj_raccoon.x, obj_raccoon.y, obj_food)
 global.foodCount += 1
 instance_destroy(currentInstance)
+audio_play_sound(foodcollection, 1, false);
