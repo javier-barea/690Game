@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_raccoon_idle_up_fixed_strip02","path":"sprites/spr_raccoon_idle_up_fixed_strip02/spr_raccoon_idle_up_fixed_strip02.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_raccoon_idle_up_fixed_strip02",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bldg_tall3","path":"sprites/spr_bldg_tall3/spr_bldg_tall3.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bldg_tall3",
     "tags": [],
     "resourceType": "GMSequence",

@@ -83,7 +83,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_trashcan_raccoon_in","path":"sprites/spr_trashcan_raccoon_in/spr_trashcan_raccoon_in.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_trashcan_raccoon_in",
     "tags": [],
     "resourceType": "GMSequence",

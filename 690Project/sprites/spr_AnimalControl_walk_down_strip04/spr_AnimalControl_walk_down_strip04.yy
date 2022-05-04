@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_AnimalControl_walk_down_strip04","path":"sprites/spr_AnimalControl_walk_down_strip04/spr_AnimalControl_walk_down_strip04.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_AnimalControl_walk_down_strip04",
     "tags": [],
     "resourceType": "GMSequence",

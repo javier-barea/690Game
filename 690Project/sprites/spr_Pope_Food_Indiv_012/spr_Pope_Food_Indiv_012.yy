@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_Pope_Food_Indiv_012","path":"sprites/spr_Pope_Food_Indiv_012/spr_Pope_Food_Indiv_012.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_Pope_Food_Indiv_012",
     "tags": [],
     "resourceType": "GMSequence",

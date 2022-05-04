@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_raccoon_walk_left_strip04","path":"sprites/spr_raccoon_walk_left_strip04/spr_raccoon_walk_left_strip04.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_raccoon_walk_left_strip04",
     "tags": [],
     "resourceType": "GMSequence",

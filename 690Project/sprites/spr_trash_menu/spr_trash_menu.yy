@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_trash_menu","path":"sprites/spr_trash_menu/spr_trash_menu.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_trash_menu",
     "tags": [],
     "resourceType": "GMSequence",
